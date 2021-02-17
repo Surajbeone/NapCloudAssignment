@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\suraj\\source\\repos\\ExcelDemoApp\\ExcelDemo\\ExcelDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\suraj\\source\\repos\\ExcelDemoApp\\ExcelDemo\\ExcelDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suraj\\source\\repos\\ExcelDemoApp\\ExcelDemo\\ExcelDemo.csproj",
+        "projectName": "ExcelDemo",
+        "projectPath": "C:\\Users\\suraj\\source\\repos\\ExcelDemoApp\\ExcelDemo\\ExcelDemo.csproj",
+        "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suraj\\source\\repos\\ExcelDemoApp\\ExcelDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[22.1.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.5.3, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[5.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\bin\Debug\netcoreapp3.1\ExcelDemo.exe
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\bin\Debug\netcoreapp3.1\ExcelDemo.deps.json
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\bin\Debug\netcoreapp3.1\ExcelDemo.runtimeconfig.json
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\bin\Debug\netcoreapp3.1\ExcelDemo.runtimeconfig.dev.json
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\bin\Debug\netcoreapp3.1\ExcelDemo.dll
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\bin\Debug\netcoreapp3.1\ExcelDemo.pdb
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.AssemblyInfo.cs
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.dll
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.pdb
+C:\Users\suraj\source\repos\ExcelDemoApp\ExcelDemo\obj\Debug\netcoreapp3.1\ExcelDemo.genruntimeconfig.cache
